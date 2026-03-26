@@ -28,7 +28,7 @@ export default function About() {
             </p>
 
             <div className="grid grid-cols-3 gap-2 sm:gap-6">
-              <div className="flex flex-col items-center sm:items-start text-center sm:text-left gap-2 sm:gap-3">
+              <div className="flex flex-col items-center text-center gap-2 sm:gap-3">
                 <div className="w-12 h-12 rounded-xl bg-neutral-900 border border-neutral-800 flex items-center justify-center text-amber-500 shrink-0">
                   <Clock className="w-6 h-6" />
                 </div>
@@ -38,7 +38,7 @@ export default function About() {
                 </div>
               </div>
               
-              <div className="flex flex-col items-center sm:items-start text-center sm:text-left gap-2 sm:gap-3">
+              <div className="flex flex-col items-center text-center gap-2 sm:gap-3">
                 <div className="w-12 h-12 rounded-xl bg-neutral-900 border border-neutral-800 flex items-center justify-center text-amber-500 shrink-0">
                   <ShieldCheck className="w-6 h-6" />
                 </div>
@@ -48,7 +48,7 @@ export default function About() {
                 </div>
               </div>
 
-              <div className="flex flex-col items-center sm:items-start text-center sm:text-left gap-2 sm:gap-3">
+              <div className="flex flex-col items-center text-center gap-2 sm:gap-3">
                 <div className="w-12 h-12 rounded-xl bg-neutral-900 border border-neutral-800 flex items-center justify-center text-amber-500 shrink-0">
                   <ThumbsUp className="w-6 h-6" />
                 </div>
