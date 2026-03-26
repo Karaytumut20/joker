@@ -35,7 +35,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="#home" className="flex items-center gap-2 group">
             <span className="text-2xl font-black tracking-tighter text-white">
-              JOKER<span className="text-amber-500">TOWING</span>
+              JOKER<span className="text-amber-500">HAUL</span>
             </span>
           </Link>
 

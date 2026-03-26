@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Joker Vehicle Towing | Fast & Reliable",
-  description: "Joker Vehicle Towing provides top-tier car transport and roadside assistance 24/7. Your vehicle's safety is our ultimate priority.",
+  title: "Joker Haul | Fast & Reliable",
+  description: "Joker Haul provides top-tier vehicle transport and roadside assistance 24/7. Your vehicle's safety is our ultimate priority.",
 };
 
 export default function RootLayout({

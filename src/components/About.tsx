@@ -21,7 +21,7 @@ export default function About() {
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 to-amber-600">tow truck company.</span>
             </h2>
             <p className="text-lg text-neutral-400 mb-6 leading-relaxed">
-              At Joker Vehicle Towing, we are more than just a tow truck company. We are a team of dedicated professionals specializing in secure vehicle transport and rapid-response roadside assistance. 
+              At Joker Haul, we are more than just a tow truck company. We are a team of dedicated professionals specializing in secure vehicle transport and rapid-response roadside assistance. 
             </p>
             <p className="text-lg text-neutral-400 mb-10 leading-relaxed">
               With years of experience on the road, we treat every vehicle as if it were our own. Whether you need a local tow, long-distance transport, or emergency recovery, we have the heavy-duty equipment and the expertise to get the job done right.

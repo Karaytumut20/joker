@@ -32,7 +32,7 @@ export default function Hero() {
         </h1>
         
         <p className="max-w-3xl mx-auto text-lg md:text-xl text-neutral-300 mb-10 text-balance leading-relaxed">
-          Joker Vehicle Towing provides top-tier car transport and roadside assistance 24/7. Your vehicle's safety is our ultimate priority.
+          Joker Haul provides top-tier vehicle transport and roadside assistance 24/7. Your vehicle's safety is our ultimate priority.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6 sm:gap-8 mt-4">

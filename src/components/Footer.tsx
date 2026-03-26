@@ -9,7 +9,7 @@ export default function Footer() {
           {/* Brand Col */}
           <div className="lg:col-span-1">
             <span className="text-2xl font-black tracking-tighter text-white block mb-6">
-              JOKER<span className="text-amber-500">TOWING</span>
+              JOKER<span className="text-amber-500">HAUL</span>
             </span>
             <p className="text-neutral-400 mb-6 leading-relaxed">
               Your trusted partner for specialized vehicle transport, emergency towing, and 24/7 roadside assistance. Always fast, always professional.
@@ -67,7 +67,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="text-amber-500 shrink-0" size={20} />
-                <a href="mailto:dispatch@jokertowing.com" className="text-neutral-400 hover:text-amber-500 transition-colors">dispatch@jokertowing.com</a>
+                <a href="mailto:dispatch@jokerhaul.com" className="text-neutral-400 hover:text-amber-500 transition-colors">dispatch@jokerhaul.com</a>
               </li>
             </ul>
           </div>
@@ -76,7 +76,7 @@ export default function Footer() {
 
         <div className="pt-8 border-t border-neutral-800 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-neutral-500 text-sm">
-            Joker Vehicle Towing © 2024. All rights reserved.
+            Joker Haul © 2024. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm">
             <a href="#" className="text-neutral-500 hover:text-white transition-colors">Privacy Policy</a>
